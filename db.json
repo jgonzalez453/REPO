@@ -13,4 +13,12 @@
     "codPaisOrigen": "ES",
     "respuestaHTTPS": "200"
   }
+  "prueba": {
+    "cio": "PQ4SEX0788475680108793Z",
+    "cp": "08793",
+    "codPaisDestino": "ES",
+    "retenidoAduanas": false,
+    "codPaisOrigen": "ES",
+    "respuestaHTTPS": "200"
+  }
 }
