@@ -6,11 +6,20 @@
     }
   ],
   "profile": {
-    "cio": "PQ4SEX0788475680108793Z",
-    "cp": "08793",
+    "cio": "PK2A1X0450266260143110C",
+    "cp": "43110",
     "codPaisDestino": "ES",
+    "errorPreregistro": "0",
     "retenidoAduanas": false,
+    "despacho": "",
     "codPaisOrigen": "ES",
-    "respuestaHTTPS": "200"
+    "valorDeclarado": "100",
+    "codMoneda": "",
+    "modalidadEntrega": "4",
+    "recipiente": "6",
+    "respuestaHTTPS": "200",
+    "circuitoAduana": "",
+    "modo": "0"
+    
   }
 }
