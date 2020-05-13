@@ -17,9 +17,9 @@
     "codMoneda": "",
     "modalidadEntrega": "1",
     "recipiente": "6",
-    "respuestaHTTPS": "200",
+    "respuestaHTTPS": "400",
     "circuitoAduana": "",
-    "modo": "0"
+    "modo": "1"
     
   }
 }
